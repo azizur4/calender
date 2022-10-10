@@ -1,6 +1,6 @@
 .dycalender-container {
     display: inline-block;
-    border: 1px solid #eee;
+    border: 2px solid #eee;
 }
 
 .dycalender-container.round-edge {
