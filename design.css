@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
 * {
-    margin: 10px;
-    padding: 10px;
+    margin:20px;
+    padding: 20px;
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
 }
@@ -12,7 +12,7 @@ section {
     justify-content: center;
     align-items: center;
     min-height: 150vh;
-    background-color: #161625;
+    background-color: #161624;
     overflow: hidden;
 }
 
@@ -31,7 +31,7 @@ section::after {
     position: absolute;
     width: 300px;
     height: 300px;
-    background: linear-gradient(#ffc107, #f10915);
+    background: linear-gradient(#ffc108, #f10915);
     border-radius: 70%;
     transform: translate(250px, 150px);
 }
